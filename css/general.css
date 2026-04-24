@@ -11,7 +11,7 @@ header {
     margin: auto;
     justify-self: center;
     padding-top: 15px;
-    display: block;
+    text-align: centre;
 }
 
 nav ul {
